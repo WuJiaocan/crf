@@ -1,0 +1,1 @@
+调用pycrfsuite，在数据集train_utf16.ner和conll2002上，通过不过调整特征模板，测试数据标注的结果。
